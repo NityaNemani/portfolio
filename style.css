@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+.Header{
+    background-color:turquoise;
+    display: flex;
+    text-align: right;
+}
+.info{
+    background-color:black;
+    color: white;
+}
+
+.Games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
